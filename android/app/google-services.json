@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874888084560",
+    "project_id": "actionlistener-c2cfa",
+    "storage_bucket": "actionlistener-c2cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874888084560:android:1b3820ba19c3fa00db6555",
+        "android_client_info": {
+          "package_name": "com.example.action_listner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfhlnhCSt28fCk2IAfBvIFjfAx2wJ0-hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
